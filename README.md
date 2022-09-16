@@ -4,7 +4,7 @@ This extension can copy the line number where the cursor is located.
 
 ## Features
 
-![breakpoint](https://github.com/haoyu234/vscode-copy-loc/master/images/breakpoint.gif)
+![breakpoint](https://raw.githubusercontent.com/haoyu234/vscode-copy-loc/master/images/breakpoint.gif)
 
 ## Extension Settings
 

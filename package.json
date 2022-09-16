@@ -3,7 +3,14 @@
   "displayName": "copy loc",
   "description": "copy line number to clipboard",
   "version": "0.0.1",
+  "icon": "https://raw.githubusercontent.com/haoyu234/vscode-copy-loc/main/images/icon.png",
   "repository": "https://github.com/haoyu234/vscode-copy-loc",
+  "homepage": "https://github.com/haoyu234/vscode-copy-loc/blob/main/README.md",
+  "publisher": "haoyu",
+  "author": {
+      "name": "haoyu"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
   "engines": {
     "vscode": "^1.71.0"
   },
